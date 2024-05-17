@@ -27,11 +27,12 @@ All of those secrets are required for the script to work, if you forget to add o
 7) Take note of the active tunnel host and port
 
 8) Connect to the host and port combination with a RDP client of your preference
+9) nhnh
 
-9) If it requires an username, write "runneradmin" and as password, the password that you wrote in the RDP_PASSWORD secret in step 3
+10) If it requires an username, write "runneradmin" and as password, the password that you wrote in the RDP_PASSWORD secret in step 3
 
-10) Once connected, be sure to not close any already open processes and windows, and most importantly: DO NOT UNINSTALL NOTHING
+11) Once connected, be sure to not close any already open processes and windows, and most importantly: DO NOT UNINSTALL NOTHING
 
-11) Enjoy!
+12) Enjoy!
 
 ### Please note that the duration of the runners in GitHub Actions is for 6 hours, so, the RDP machine lasts 6 hours.
